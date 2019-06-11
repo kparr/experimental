@@ -1,1 +1,4 @@
-Unstage a new file
+# Heading
+
+- Line 1
+- Line 2
